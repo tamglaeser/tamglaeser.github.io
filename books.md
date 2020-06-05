@@ -11,3 +11,4 @@ order: 2
 The latest books I've read:  
 
 - _Pereira Maintains_ by Antonio Tabuchi
+- _God's Mountain_ by Erri De Luca
