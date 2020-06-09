@@ -54,8 +54,8 @@
         .menu-icon {
             display: block;
             float: right;
-            width: 36px;
-            height: 26px;
+	    width: 36px;
+	    height: 26px;
             line-height: 0;
             padding-top: 10px;
             text-align: center;
@@ -107,11 +107,18 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
-    list-style: none;
-    margin-left: 0;
+.contact-list li, .social-media-list li {
+	display: inline;
+	text-align: right;
+	padding-left: $spacing-unit / 4;
 }
+.social-media-list li {
+       float:right;	
+}
+
+//.social-media-list {
+//	float: right;
+//}
 
 .footer-col-wrapper {
     font-size: 15px;
@@ -241,4 +248,26 @@
             font-size: 18px;
         }
     }
+}
+
+/**
+ * Images
+ */
+
+.gallery{
+	display: grid;
+      	grid-auto-rows: auto;
+	grid-template-columns: repeat(4, 5fr);
+	grid-gap: 10px;
+       	padding: 10px;
+}
+
+.pic>img{
+	object-fit: cover;
+	width:100%;
+	height:250px;
+}
+
+.piclabel{
+	font-size: 13px
 }
