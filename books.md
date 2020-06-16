@@ -13,3 +13,4 @@ The latest books I've read:
 - _Pereira Maintains_ by Antonio Tabuchi
 - _God's Mountain_ by Erri De Luca
 - _The Ocean at the End of the Lane_ by Neil Gaiman
+- _What We Talk About When We Talk About Love_ by Raymond Carver
