@@ -12,19 +12,13 @@ order: 5
 
 <div>
 <div class="item">
-<img id="rightImg" src="files/photography/camera.jpg">
-<p class="piclabel"><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bhphotovideo.com%2Fc%2Fproduct%2F1351009-REG%2Folympus_v207072su010_om_d_e_m10_mark_iii.html&psig=AOvVaw2hzZURvu9a_ftCwXZ4k1pd&ust=1592582233181000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDh8KTdi-oCFQAAAAAdAAAAABAW">from B&H</a></p>
+<img id="rightImg" src="files/photography/olympus.png">
+<p class="piclabel"><a href="https://getolympus.com/digitalcameras/omd/e-m10-mark-iii.html">from Olympus</a></p>
 </div>
 
 I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been experimenting with it. Here is a collection of my amateur photography.
 
 </div>
-
-
-
-
-
-
 
 ### Time Lapses
 
@@ -34,22 +28,39 @@ I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been exp
 <div class="row">
 
 <div class="column">
-<img src="files/photography/legos.JPG">
-<img src="files/photography/BLM.JPG">
-<img src="files/photography/quarantine.JPG">
+<img src="files/photography/quarantined.JPG" onClick="modftn(this)" alt="Quarantined">
+<img src="files/photography/blm.JPG" onClick="modftn(this)" alt="#BLM - DC">
+<img src="files/photography/legos.JPG" onClick="modftn(this)" alt="Legos - DC">
 </div>
 
 <div class="column">
-<img src="files/photography/quarantine.JPG">
-<img src="files/photography/BLM.JPG">
-<img src="files/photography/legos.JPG">
+<img src="files/photography/legos.JPG" onClick="modftn(this)" alt="Legos - DC">
+<img src="files/photography/blm.JPG" onClick="modftn(this)" alt="#BLM - DC">
+<img src="files/photography/quarantined.JPG" onClick="modftn(this)" alt="Quarantined">
 </div>
 
 <div class="column">
-<img src="files/photography/BLM.JPG">
-<img src="files/photography/legos.JPG">
-<img src="files/photography/quarantine.JPG">
+<img src="files/photography/blm.JPG" onClick="modftn(this)" alt="#BLM - DC">
+<img src="files/photography/legos.JPG" onClick="modftn(this)" alt="Legos - DC">
+<img src="files/photography/quarantined.JPG" onClick="modftn(this)" alt="Quarantined">
 </div>
 
 </div>
+
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+
+<script src="/assets/js/main.js"></script>
 
