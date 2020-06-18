@@ -5,9 +5,9 @@ ref: home
 lang: it
 ---
 
-<div style="float: right; padding-left: 30px; width: 300px">
+<div class="profile">
 <img src="files/profiles/library_laugh.jpg">
-<p style="font-size: 13px">Davanti a una libreria a Parigi.</p>
+<p class="piclabel">Davanti a una libreria a Parigi.</p>
 </div>
 
 
