@@ -8,8 +8,6 @@ order: 5
 
 ## Photography
 
-### Background
-
 <div>
 <div class="item">
 <img id="rightImg" src="files/photography/olympus.png">
@@ -19,11 +17,6 @@ order: 5
 I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been experimenting with it. Here is a collection of my amateur photography.
 
 </div>
-
-### Time Lapses
-
-
-### Photos
 
 <div class="row">
 

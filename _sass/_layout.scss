@@ -254,14 +254,6 @@
  * Images
  */
 
-.gallery{
-	display: grid;
-      	grid-auto-rows: auto;
-	grid-template-columns: repeat(4, 5fr);
-	grid-gap: 10px;
-       	padding: 10px;
-}
-
 .pic>img{
 	object-fit: cover;
 	width:100%;
@@ -272,9 +264,6 @@
 
 .pic>img:hover{
 	opacity: 0.7;
-}
-.pic>p{
-	font-size: 13px
 }
 
 /* The Modal (background) */
