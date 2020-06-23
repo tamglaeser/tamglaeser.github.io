@@ -11,7 +11,8 @@ order: 5
 <div>
 <div class="item">
 <img id="rightImg" src="files/photography/olympus.png">
-<p class="piclabel"><a href="https://getolympus.com/digitalcameras/omd/e-m10-mark-iii.html">from Olympus</a></p>
+<div class="middle">
+<div class="piclabel"><a href="https://getolympus.com/digitalcameras/omd/e-m10-mark-iii.html" target="_blank">Olympus <br> E-M10 Mark III</a></div></div>
 </div>
 
 I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been experimenting with it. Here is a collection of my amateur photography.
