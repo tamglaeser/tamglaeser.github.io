@@ -8,6 +8,6 @@ order: 3
 
 ## Music
 
-Some recordings of mine.
+to be updated soon
 
 ### Cello
