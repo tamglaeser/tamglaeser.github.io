@@ -256,10 +256,13 @@
 
 .pic>img{
 	object-fit: cover;
-	width:100%;
-	height:250px;
 	cursor: pointer;
         transition: 0.3s;
+}
+
+#draw>img{
+        width:100%;
+        height:250px;
 }
 
 .pic>img:hover{
@@ -343,6 +346,10 @@
 	width: 300px;
 }
 
+.sameHeight {
+	height:100px;
+}
+
 .item {
 	float: right;
 	padding-left: 30px;
@@ -387,29 +394,14 @@ a.link:link {color:#ff0000;}
 a.link:hover {color:#ffcc00;}
 	
 
-.row {
-	display: flex;
-  	flex-wrap: wrap;
-  	padding: 0 1px;
-	width: 100%;
-}
-
-/* Create three equal columns that sit next to each other */
-.column {
-	flex: 32%;
-	max-width: 33%;
-	padding: 0 1px;
-}
-
-.column img {
-  	margin-top: 2px;
+.row img {
   	vertical-align: middle;
 	width: 100%;
 	cursor: pointer;
         transition: 0.3s;
 }
 
-.column>img:hover{
+.row>img:hover{
         opacity: 0.7;
 }
 
@@ -417,19 +409,56 @@ a.link:hover {color:#ffcc00;}
 	opacity: 0.7;
 }
 
-/* Responsive layout - makes a two column-layout instead of three columns */
-@media screen and (max-width: 800px) {
-  .column {
-    flex: 48%;
-    max-width: 50%;
-  }
+.row, .column {
+	max-width: 1200px;
+	margin: 0 auto;
+	display: grid;
+	grid-gap: 2px;
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
-@media screen and (max-width: 600px) {
-  .column {
-    flex: 100%;
-    max-width: 100%;
-  }
+/* Create three equal columns that sit next to each other */
+
+@media (min-width: 600px) {
+.row {
+        grid-template-columns: repeat(2, 1fr);
 }
+}
+
+
+/* Responsive layout - makes a two column-layout instead of three columns */
+@media (min-width: 900px) {
+  .row {
+	  grid-template-columns: repeat(3, 1fr);
+}
+}
+
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
 
