@@ -15,3 +15,4 @@ The latest books I've read:
 - _The Ocean at the End of the Lane_ by Neil Gaiman
 - _What We Talk About When We Talk About Love_ by Raymond Carver
 - _Siddhartha_ by Herman Hesse, translated by Susan Bernofsky
+- _Novecento: Un monologo_ di Alessandro Baricco
