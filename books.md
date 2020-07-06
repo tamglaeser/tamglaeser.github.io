@@ -16,3 +16,4 @@ The latest books I've read:
 - _What We Talk About When We Talk About Love_ by Raymond Carver
 - _Siddhartha_ by Herman Hesse, translated by Susan Bernofsky
 - _Novecento: Un monologo_ di Alessandro Baricco
+- _Twenty Love Poems and a Song of Despair_ by Pablo Neruda
