@@ -254,6 +254,12 @@
  * Images
  */
 
+.pic {
+	display:flex;
+	flex-direction:row;
+	position: relative;
+}
+
 .pic>img{
 	object-fit: cover;
 	cursor: pointer;
@@ -265,9 +271,6 @@
         height:250px;
 }
 
-.pic>img:hover{
-	opacity: 0.7;
-}
 
 /* The Modal (background) */
 .modal {
@@ -377,11 +380,11 @@
   padding-left: 30px;
 }
 
-.item:hover #rightImg {
+.item:hover #rightImg, .pic:hover {
   opacity: 0.5;
 }
 
-.item:hover .middle {
+.item:hover .middle, .pic:hover .middle {
   opacity: 1;
 }
 
@@ -401,9 +404,6 @@ a:hover {color:complement($brand-color);
         transition: 0.3s;
 }
 
-.row>img:hover{
-        opacity: 0.7;
-}
 
 .row, .column {
 	max-width: 1200px;
