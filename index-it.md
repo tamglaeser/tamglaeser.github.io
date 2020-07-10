@@ -11,4 +11,4 @@ lang: it
 </div>
 
 
-Ciao! Sono studentessa di informatica e di matematica all'Università di Tulane con un soggetto minore in Francese. Qui troverette tutti i miei progetti.
+Ciao! Sono studentessa di informatica e di matematica all'Università di Tulane; la mia materia secondaria è Francese. I miei progetti sono visionabili qui.
