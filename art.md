@@ -13,6 +13,10 @@ Some of my art:
 <div class="row">
 
 <div class="pic" id="draw">
+<img id="6" src="files/drawings/cry.jpg" onClick="modftn(this);currentSlide(6)" alt="Cry - <a href='https://www.instagram.com/p/Bxmq4Y9Cse_/' target='_blank'>Mehran Djojan's photography</a>">
+</div>
+
+<div class="pic" id="draw">
 <img id="5" src="files/drawings/sandra.jpg" onClick="modftn(this);currentSlide(5)" alt="Sandra - <a href='https://www.instagram.com/p/CALm22eoeOg/' target='_blank'>Jean Pierrot's photography</a>">
 </div>
 
