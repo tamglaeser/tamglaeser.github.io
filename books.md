@@ -17,3 +17,4 @@ The latest books I've read:
 - _Siddhartha_ by Herman Hesse, translated by Susan Bernofsky
 - _Novecento: Un monologo_ di Alessandro Baricco
 - _Twenty Love Poems and a Song of Despair_ by Pablo Neruda
+- _Death in Venice_ by Thomas Mann, translated by Stanley Appelbaum
