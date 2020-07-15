@@ -7,7 +7,7 @@ lang: it
 
 <div class="profile">
 <img src="files/profiles/library_laugh.jpg">
-<p class="piclabel">Davanti a una libreria a Parigi.</p>
+<p>Davanti a una libreria a Parigi.</p>
 </div>
 
 

@@ -7,7 +7,7 @@ lang: fr
 
 <div class="profile">
 <img src="files/profiles/library_laugh.jpg">
-<p class="piclabel">Devant une librairie à Paris.</p>
+<p>Devant une librairie à Paris.</p>
 </div>
 
 Salut! Je suis une étudiante d'informatique et des mathématiques à l'Université de Tulane avec le français comme mineure. Ici vous trouverez tous mes projets.
