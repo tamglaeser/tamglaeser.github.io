@@ -8,7 +8,8 @@ order: 2
 
 ## Books
 
-In an attempt to culture myself .. 
+In an attempt to culture myself ..
+LOVE all these books 
 
 - _Pereira Maintains_ by Antonio Tabuchi
 - _God's Mountain_ by Erri De Luca
