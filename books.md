@@ -8,7 +8,7 @@ order: 2
 
 ## Books
 
-The latest books I've read:  
+In an attempt to culture myself .. 
 
 - _Pereira Maintains_ by Antonio Tabuchi
 - _God's Mountain_ by Erri De Luca
@@ -19,3 +19,4 @@ The latest books I've read:
 - _Twenty Love Poems and a Song of Despair_ by Pablo Neruda
 - _Death in Venice_ by Thomas Mann, translated by Stanley Appelbaum
 - _Le Petit Prince_ de Antoine de Saint-Exupéry
+- _The House of the Spirits_ by Isabel Allende
