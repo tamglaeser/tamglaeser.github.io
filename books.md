@@ -22,3 +22,4 @@ The latest books I've read ..
 - _The House of the Spirits_ by Isabel Allende
 - _Sei personaggi in cerca d'autore_ di Luigi Pirandell
 - _Cathedral_ by Raymond Carver
+- _The Baron in the Trees_ by Italo Calvino
