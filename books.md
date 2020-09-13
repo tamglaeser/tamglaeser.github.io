@@ -20,6 +20,6 @@ The latest books I've read ..
 - _Death in Venice_ by Thomas Mann, translated by Stanley Appelbaum
 - _Le Petit Prince_ de Antoine de Saint-Exupéry
 - _The House of the Spirits_ by Isabel Allende
-- _Sei personaggi in cerca d'autore_ di Luigi Pirandell
+- _Sei personaggi in cerca d'autore_ di Luigi Pirandello
 - _Cathedral_ by Raymond Carver
 - _The Baron in the Trees_ by Italo Calvino
