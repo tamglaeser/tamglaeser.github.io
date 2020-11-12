@@ -23,3 +23,4 @@ The latest books I've read ..
 - _Sei personaggi in cerca d'autore_ di Luigi Pirandello
 - _Cathedral_ by Raymond Carver
 - _The Baron in the Trees_ by Italo Calvino
+- _Pride and Prejudice_ by Jane Austen
