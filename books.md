@@ -25,3 +25,4 @@ The latest books I've read ..
 - _The Baron in the Trees_ by Italo Calvino
 - _Pride and Prejudice_ by Jane Austen
 - _Chronicle of a Death Foretold_ by Gabriel García Márquez
+- _Paula_ by Isabel Allende
