@@ -13,7 +13,7 @@ Some of my art:
 <div class="row">
 
 <div class="pic" id="draw">
-<img id="9" src="files/drawings/mamma.jpg" onClick="modftn(this);currentSlide(9)" alt="Mamma (?) - Pre-Tullia photography">
+<img id="9" src="files/drawings/mamma.jpg" onClick="modftn(this);currentSlide(9)" alt="Mamma - Pre-Tullia photography">
 </div>
 
 <div class="pic" id="draw">
