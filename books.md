@@ -27,3 +27,4 @@ The latest books I've read ..
 - _Chronicle of a Death Foretold_ by Gabriel García Márquez
 - _Paula_ by Isabel Allende
 - _The Pillars of the Earth_ by Ken Follett
+- _The Time Traveler's Wife_ by Audrey Niffenegger
