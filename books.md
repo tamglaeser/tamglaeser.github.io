@@ -31,3 +31,4 @@ The latest books I've read ..
 - _Neverwhere_ by Neil Gaiman
 - _The Death of Ivan Ilyich_ by Leo Tolstoy
 - _One Hundred Years of Solitude_ by Gabriel García Márquez
+- _Born a Crime_ by Trevor Noah
