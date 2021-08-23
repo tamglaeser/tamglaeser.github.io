@@ -33,3 +33,4 @@ The latest books I've read ..
 - _One Hundred Years of Solitude_ by Gabriel García Márquez
 - _Born a Crime_ by Trevor Noah
 - _The Remains of the Day_ by Kazuo Ishiguro
+- _Murder on the Orient Express_ by Agatha Christie
