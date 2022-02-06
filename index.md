@@ -11,4 +11,4 @@ order: 1
 <p>Outside a bookstore in Paris, France.</p>
 </div>
 
-Hello! I'm a senior studying Computer Science and Mathematics at Tulane University with a minor in French. Here you will find all my projects.
+Hello! I'm doing my Master's in Computer Science (Software Engineering) at Paul Sabatier University in Toulouse, France. Here you will find all my projects.

@@ -15,11 +15,16 @@ order: 5
 <div class="piclabel"><a href="https://getolympus.com/digitalcameras/omd/e-m10-mark-iii.html" target="_blank">Olympus <br> E-M10 Mark III</a></div></div>
 </div>
 
-I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been experimenting with it. Here is a collection of my amateur photography.
+I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been experimenting with it. Here is a collection of my amateur photography. Need to work on my ISO...
 
 </div>
 
 <div class="row">
+
+<div class="pic"><img id="16" src="https://www.flickr.com/photos/194976626@N04/51866924224/in/datetaken/" onClick="modftn(this);currentSlide(16)" alt="Eye of the Hurricane">
+<div class="middle">
+<div class="piclabel">Eye of the Hurricane</div>
+</div></div>
 
 <div class="pic"><img id="15" src="files/photography/monet.jpg" onClick="modftn(this);currentSlide(15)" alt="38°59'30.59&quot;N 77°15'5.40&quot;W, 3 July 2020 - 20:42:57 EST">
 <div class="middle">

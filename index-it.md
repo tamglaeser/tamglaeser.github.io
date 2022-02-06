@@ -11,4 +11,4 @@ lang: it
 </div>
 
 
-Ciao! Sono studentessa di informatica e di matematica all'Università di Tulane; la mia materia secondaria è Francese. I miei progetti sono visionabili qui.
+Ciao! Sto facendo il mio magistrale d'informatica (ingegneria del software) all'Università Paul Sabatier in Francia. I miei progetti sono visionabili qui.

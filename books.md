@@ -35,3 +35,4 @@ The latest books I've read ..
 - _The Remains of the Day_ by Kazuo Ishiguro
 - _Murder on the Orient Express_ by Agatha Christie
 - _Fall of Giants_ by Ken Follett
+- _Three Men in a Boat_ by Jerome K. Jerome

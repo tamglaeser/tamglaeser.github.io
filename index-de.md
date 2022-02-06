@@ -10,4 +10,4 @@ lang: de
 <p>Vor einer Buchhandlung in Paris.</p>
 </div>
 
-Hallo! Ich studiere Informatik und Mathematik bei Tulane Universität mit Französisch als Nebenfach. Hier finden Sie alle meine Projekte.
+Hallo! Ich bin eine Studenten bei der Universität Paul Sabatier in Toulouse, Frankreich wo ich gerade meinen Master in Informatik (Softwareentwicklung) mach. Hier finden Sie alle meine Projekte.

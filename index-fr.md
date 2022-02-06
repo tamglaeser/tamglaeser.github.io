@@ -10,4 +10,4 @@ lang: fr
 <p>Devant une librairie à Paris.</p>
 </div>
 
-Salut! Je suis une étudiante d'informatique et des mathématiques à l'Université de Tulane avec le français comme mineure. Ici vous trouverez tous mes projets.
+Salut! Je suis en train d'achever un master en informatique, parcours Sciences du Logiciel, à l'Université Toulouse III Paul Sabatier. Ici vous trouverez tous mes projets.
