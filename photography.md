@@ -93,19 +93,19 @@ I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been exp
 </div>
 </div>
 
-<div class="pic"><img id="27" src="https://live.staticflickr.com/65535/51865637687_f7809a0d1f_h.jpg" onClick="modftn(this);currentSlide(27)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="27" src="https://live.staticflickr.com/65535/51866682638_9cf6d933c2_h.jpg" onClick="modftn(this);currentSlide(27)" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Skip One</div>
 </div>
 </div>
 
-<div class="pic"><img id="26" src="https://live.staticflickr.com/65535/51866682638_9cf6d933c2_h.jpg" onClick="modftn(this);currentSlide(26)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="26" src="https://live.staticflickr.com/65535/51865637802_4c337fef83_h.jpg" onClick="modftn(this);currentSlide(26)" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Skip Two</div>
 </div>
 </div>
 
-<div class="pic"><img id="25" src="https://live.staticflickr.com/65535/51865637802_4c337fef83_h.jpg" onClick="modftn(this);currentSlide(25)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="25" src="https://live.staticflickr.com/65535/51865637687_f7809a0d1f_h.jpg" onClick="modftn(this);currentSlide(25)" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Skip Three</div>
 </div>
