@@ -21,75 +21,57 @@ I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been exp
 
 <div class="row">
 
-<div class="pic"><img id="39" src="https://live.staticflickr.com/65535/51865637867_2e69a12ce5_h.jpg" onClick="modftn(this);currentSlide(39)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="39" src="https://live.staticflickr.com/65535/51865637867_2e69a12ce5_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Blue One</div>
 </div>
 </div>
 
-<div class="pic"><img id="38" src="https://live.staticflickr.com/65535/51866604526_d1e536441f_h.jpg" onClick="modftn(this);currentSlide(38)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="38" src="https://live.staticflickr.com/65535/51866604526_d1e536441f_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Blue Two</div>
 </div>
 </div>
 
-<div class="pic"><img id="37" src="https://live.staticflickr.com/65535/51866604416_1dbe29d5a8_h.jpg" onClick="modftn(this);currentSlide(37)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="37" src="https://live.staticflickr.com/65535/51866604416_1dbe29d5a8_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Blue Three</div>
 </div>
 </div>
 
-<div class="pic"><img id="36" src="https://live.staticflickr.com/65535/51866924224_a45931ad38_h.jpg" onClick="modftn(this);currentSlide(36)" alt="Hurricane Zeta - New Orleans 2020">
+<div class="pic"><img id="36" src="https://live.staticflickr.com/65535/51866924224_a45931ad38_h.jpg" alt="Hurricane Zeta - New Orleans 2020">
 <div class="middle">
 <div class="piclabel">Eye of the Hurricane</div>
 </div>
 </div>
 
-<div class="pic"><img id="35" src="https://live.staticflickr.com/65535/51866924199_21a7a4e7a0_h.jpg" onClick="modftn(this);currentSlide(35)" alt="Hurricane Zeta - New Orleans 2020">
+<div class="pic"><img id="35" src="https://live.staticflickr.com/65535/51866924199_21a7a4e7a0_h.jpg" alt="Hurricane Zeta - New Orleans 2020">
 <div class="middle">
 <div class="piclabel">Eye of the Hurricane</div>
 </div>
 </div>
 
-<div class="pic"><img id="34" src="https://live.staticflickr.com/65535/51866606831_885d59b163_h.jpg" onClick="modftn(this);currentSlide(34)" alt="Hurricane Zeta - New Orleans 2020">
-<div class="middle">
-<div class="piclabel">Eye of the Hurricane</div>
-</div>
-</div>
-
-<div class="pic"><img id="33" src="https://live.staticflickr.com/65535/51866682628_b71971c0ef_h.jpg" onClick="modftn(this);currentSlide(33)" alt="Moomaw - Summer 2020">
-<div class="middle">
-<div class="piclabel">Green Boat One</div>
-</div>
-</div>
-
-<div class="pic"><img id="32" src="https://live.staticflickr.com/65535/51866921699_6dd1806d23_h.jpg" onClick="modftn(this);currentSlide(32)" alt="Moomaw - Summer 2020">
-<div class="middle">
-<div class="piclabel">Green Boat Two</div>
-</div>
-</div>
-
-<div class="pic"><img id="31" src="https://live.staticflickr.com/65535/51865637672_4de591d23e_h.jpg" onClick="modftn(this);currentSlide(31)" alt="Moomaw - Summer 2020">
-<div class="middle">
-<div class="piclabel">Green Boat Three</div>
-</div>
-</div>
-
-<div class="pic"><img id="30" src="https://live.staticflickr.com/65535/51865786622_2330285b96_h.jpg" onClick="modftn(this);currentSlide(30)" alt="Cleveland, Ohio - December 2020">
+<div class="pic"><img id="34" src="https://live.staticflickr.com/65535/51865786622_2330285b96_h.jpg" onClick="modftn(this);currentSlide(34)" alt="Cleveland, Ohio - December 2020">
 <div class="middle">
 <div class="piclabel">Dirty Reflection</div>
 </div>
 </div>
 
-<div class="pic"><img id="29" src="https://live.staticflickr.com/65535/51866831848_62a1dcadfa_h.jpg" onClick="modftn(this);currentSlide(29)" alt="Cleveland, Ohio - December 2020">
+<div class="pic"><img id="33" src="https://live.staticflickr.com/65535/51866682628_b71971c0ef_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
-<div class="piclabel">Purple Curves</div>
+<div class="piclabel">Green Boat One</div>
 </div>
 </div>
 
-<div class="pic"><img id="28" src="https://live.staticflickr.com/65535/51865786592_d6add06659_h.jpg" onClick="modftn(this);currentSlide(28)" alt="Cleveland, Ohio - December 2020">
+<div class="pic"><img id="32" src="https://live.staticflickr.com/65535/51866921699_6dd1806d23_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
-<div class="piclabel">America</div>
+<div class="piclabel">Green Boat Two</div>
+</div>
+</div>
+
+<div class="pic"><img id="31" src="https://live.staticflickr.com/65535/51865637672_4de591d23e_h.jpg" alt="Moomaw - Summer 2020">
+<div class="middle">
+<div class="piclabel">Green Boat Three</div>
 </div>
 </div>
 
@@ -111,57 +93,57 @@ I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been exp
 </div>
 </div>
 
-<div class="pic"><img id="24" src="https://live.staticflickr.com/65535/51866921869_9d5d0a6d29_h.jpg" onClick="modftn(this);currentSlide(24)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="24" src="https://live.staticflickr.com/65535/51866921869_9d5d0a6d29_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Divine Peace One</div>
 </div>
 </div>
 
-<div class="pic"><img id="23" src="https://live.staticflickr.com/65535/51866682573_fc29af1c9b_h.jpg" onClick="modftn(this);currentSlide(23)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="23" src="https://live.staticflickr.com/65535/51866682573_fc29af1c9b_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Divine Peace Two</div>
 </div>
 </div>
 
-<div class="pic"><img id="22" src="https://live.staticflickr.com/65535/51867254185_d173e82662_h.jpg" onClick="modftn(this);currentSlide(22)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="22" src="https://live.staticflickr.com/65535/51867254185_d173e82662_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Divine Peace Three</div>
 </div>
 </div>
 
-<div class="pic"><img id="21" src="https://live.staticflickr.com/65535/51865637887_deded8ed37_h.jpg" onClick="modftn(this);currentSlide(21)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="21" src="https://live.staticflickr.com/65535/51865637887_deded8ed37_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Two Boats One</div>
 </div>
 </div>
 
-<div class="pic"><img id="20" src="https://live.staticflickr.com/65535/51866682483_f5f3a57ce1_h.jpg" onClick="modftn(this);currentSlide(20)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="20" src="https://live.staticflickr.com/65535/51866682483_f5f3a57ce1_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Two Boats Two</div>
 </div>
 </div>
 
-<div class="pic"><img id="19" src="https://live.staticflickr.com/65535/51866604456_c55356c86f_h.jpg" onClick="modftn(this);currentSlide(19)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="19" src="https://live.staticflickr.com/65535/51866604456_c55356c86f_h.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
 <div class="piclabel">Two Boats Three</div>
 </div>
 </div>
 
-<div class="pic"><img id="18" src="https://live.staticflickr.com/65535/51866682648_87f58c9ac2_b.jpg" onClick="modftn(this);currentSlide(18)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="18" src="https://live.staticflickr.com/65535/51866682648_87f58c9ac2_b.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
-<div class="piclabel">One</div>
+<div class="piclabel">Classic Moomaw One</div>
 </div>
 </div>
 
-<div class="pic"><img id="17" src="https://live.staticflickr.com/65535/51866682548_1a5a7c701f_b.jpg" onClick="modftn(this);currentSlide(17)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="17" src="https://live.staticflickr.com/65535/51866682548_1a5a7c701f_b.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
-<div class="piclabel">Two</div>
+<div class="piclabel">Classic Moomaw Two</div>
 </div>
 </div>
 
-<div class="pic"><img id="16" src="https://live.staticflickr.com/65535/51867254145_392a56b430_b.jpg" onClick="modftn(this);currentSlide(16)" alt="Moomaw - Summer 2020">
+<div class="pic"><img id="16" src="https://live.staticflickr.com/65535/51867254145_392a56b430_b.jpg" alt="Moomaw - Summer 2020">
 <div class="middle">
-<div class="piclabel">Three</div>
+<div class="piclabel">Classic Moomaw Three</div>
 </div>
 </div>
 
