@@ -39,13 +39,13 @@ I recently bought the E-M10 Mark III Olympus Mirrorless Camera and have been exp
 </div>
 </div>
 
-<div class="pic"><img id="36" src="https://live.staticflickr.com/65535/51866924224_a45931ad38_h.jpg" alt="Hurricane Zeta - New Orleans 2020">
+<div class="pic"><img id="36" src="https://live.staticflickr.com/65535/51866924224_a45931ad38_h.jpg" onClick="modftn(this);currentSlide(36)" alt="Hurricane Zeta - New Orleans 2020">
 <div class="middle">
 <div class="piclabel">Eye of the Hurricane</div>
 </div>
 </div>
 
-<div class="pic"><img id="35" src="https://live.staticflickr.com/65535/51866924199_21a7a4e7a0_h.jpg" alt="Hurricane Zeta - New Orleans 2020">
+<div class="pic"><img id="35" src="https://live.staticflickr.com/65535/51866924199_21a7a4e7a0_h.jpg" onClick="modftn(this);currentSlide(35)" alt="Hurricane Zeta - New Orleans 2020">
 <div class="middle">
 <div class="piclabel">Eye of the Hurricane</div>
 </div>
