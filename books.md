@@ -39,3 +39,4 @@ The latest books I've read ..
 - _Winter of the World_ by Ken Follett
 - _How to Change Your Mind: The New Science of Psychedelics_ by Michael Pollan
 - _Eva Luna_ by Isabel Allende
+- _There Are Places in the World Where Rules Are Less Important Than Kindness_ by Carlo Rovelli
