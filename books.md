@@ -40,3 +40,4 @@ The latest books I've read ..
 - _How to Change Your Mind: The New Science of Psychedelics_ by Michael Pollan
 - _Eva Luna_ by Isabel Allende
 - _There Are Places in the World Where Rules Are Less Important Than Kindness_ by Carlo Rovelli
+- _A Brightness Long Ago_ by Guy Gavriel Kay
