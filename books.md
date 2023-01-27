@@ -42,3 +42,4 @@ The latest books I've read ..
 - _There Are Places in the World Where Rules Are Less Important Than Kindness_ by Carlo Rovelli
 - _A Brightness Long Ago_ by Guy Gavriel Kay
 - _Love Stories - Short stories by Oscar Wilde, Mary Shelley, Virginia Woolf, Leo Tolstoy_
+- _Lolita_ by Vladimir Nabokov
