@@ -43,3 +43,4 @@ The latest books I've read ..
 - _A Brightness Long Ago_ by Guy Gavriel Kay
 - _Love Stories - Short stories by Oscar Wilde, Mary Shelley, Virginia Woolf, Leo Tolstoy_
 - _Lolita_ by Vladimir Nabokov
+- _World Without End_ by Ken Follett
