@@ -44,3 +44,4 @@ The latest books I've read ..
 - _Love Stories - Short stories by Oscar Wilde, Mary Shelley, Virginia Woolf, Leo Tolstoy_
 - _Lolita_ by Vladimir Nabokov
 - _World Without End_ by Ken Follett
+- _Stories of Your Life and Others_ by Ted Chiang
