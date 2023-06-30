@@ -45,3 +45,4 @@ The latest books I've read ..
 - _Lolita_ by Vladimir Nabokov
 - _World Without End_ by Ken Follett
 - _Stories of Your Life and Others_ by Ted Chiang
+- _To Kill a Mockingbird_ by Harper Lee
