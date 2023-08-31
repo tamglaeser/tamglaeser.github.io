@@ -47,3 +47,4 @@ The latest books I've read ..
 - _Stories of Your Life and Others_ by Ted Chiang
 - _To Kill a Mockingbird_ by Harper Lee
 - _Where the Crawdads Sing_ by Delia Owens
+- _Nel mare ci sono i coccodrilli: Storia vera di Enaiatollah Akbari_ di Fabio Geda
