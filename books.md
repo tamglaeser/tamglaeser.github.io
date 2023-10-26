@@ -48,3 +48,4 @@ The latest books I've read ..
 - _To Kill a Mockingbird_ by Harper Lee
 - _Where the Crawdads Sing_ by Delia Owens
 - _Nel mare ci sono i coccodrilli: Storia vera di Enaiatollah Akbari_ di Fabio Geda
+- _Interview with the Vampire_ by Anne Rice
