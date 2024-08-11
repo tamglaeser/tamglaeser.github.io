@@ -50,3 +50,4 @@ The latest books I've read ..
 - _Nel mare ci sono i coccodrilli: Storia vera di Enaiatollah Akbari_ di Fabio Geda
 - _Interview with the Vampire_ by Anne Rice
 - _The Kite Runner_ by Khaled Hosseini
+- _Anxious People_ by Fredrik Backman
