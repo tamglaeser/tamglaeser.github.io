@@ -53,3 +53,4 @@ The latest books I've read ..
 - _Anxious People_ by Fredrik Backman
 - _Tomorrow and Tomorrow and Tomorrow_ by Gabrielle Zevin
 - _The House at Riverton_ by Kate Morton
+- _The Confession_ by John Grisham
