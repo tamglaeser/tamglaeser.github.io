@@ -54,3 +54,4 @@ The latest books I've read ..
 - _Tomorrow and Tomorrow and Tomorrow_ by Gabrielle Zevin
 - _The House at Riverton_ by Kate Morton
 - _The Confession_ by John Grisham
+- _A Thousand Splendid Suns_ by Khaled Hosseini
