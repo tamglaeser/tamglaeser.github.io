@@ -55,3 +55,4 @@ The latest books I've read ..
 - _The House at Riverton_ by Kate Morton
 - _The Confession_ by John Grisham
 - _A Thousand Splendid Suns_ by Khaled Hosseini
+- _The Eyes of Gaza_ by Plestia Alaqad
