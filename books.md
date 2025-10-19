@@ -56,3 +56,4 @@ The latest books I've read ..
 - _The Confession_ by John Grisham
 - _A Thousand Splendid Suns_ by Khaled Hosseini
 - _The Eyes of Gaza_ by Plestia Alaqad
+- _Beloved_ by Toni Morrison
