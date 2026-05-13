@@ -58,3 +58,4 @@ The latest books I've read ..
 - _The Eyes of Gaza_ by Plestia Alaqad
 - _Beloved_ by Toni Morrison
 - _My Friends_ by Fredrik Backman
+- _Wild Dark Shore_ by Charlotte McConaghy
