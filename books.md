@@ -59,3 +59,4 @@ The latest books I've read ..
 - _Beloved_ by Toni Morrison
 - _My Friends_ by Fredrik Backman
 - _Wild Dark Shore_ by Charlotte McConaghy
+- _A Gentleman in Moscow_ by Amor Towles
